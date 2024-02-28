@@ -1,3 +1,3 @@
 # Profil-card
-Esercizio copiato da youtube per allenarmi <br>
+<br>
 https://vinx92.github.io/Profil-card/
